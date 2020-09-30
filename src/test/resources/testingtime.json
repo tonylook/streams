@@ -1,0 +1,81 @@
+[{
+  "userId": "122e7d0c-e703-4fbc-8ebe-ff5542216eb9",
+  "answeredIndex": 1,
+  "questionId": "1"
+}, {
+  "userId": "fc790629-217d-49df-a3c1-9f7823dc7b3d",
+  "answeredIndex": 1,
+  "questionId": "1"
+}, {
+  "userId": "f2e1853f-392c-4047-8334-084598905715",
+  "answeredIndex": 1,
+  "questionId": "1"
+}, {
+  "userId": "3ea779f9-3839-48ce-ab6a-4a575a47d075",
+  "answeredIndex": 1,
+  "questionId": "1"
+}, {
+  "userId": "6c566848-edbc-4b7f-b97e-084489c9d6e6",
+  "answeredIndex": 1,
+  "questionId": "1"
+}, {
+  "userId": "122e7d0c-e703-4fbc-8ebe-ff5542216eb9",
+  "answeredIndex": 0,
+  "questionId": "2"
+}, {
+  "userId": "fc790629-217d-49df-a3c1-9f7823dc7b3d",
+  "answeredIndex": 0,
+  "questionId": "2"
+}, {
+  "userId": "f2e1853f-392c-4047-8334-084598905715",
+  "answeredIndex": 0,
+  "questionId": "2"
+}, {
+  "userId": "3ea779f9-3839-48ce-ab6a-4a575a47d075",
+  "answeredIndex": 0,
+  "questionId": "2"
+}, {
+  "userId": "6c566848-edbc-4b7f-b97e-084489c9d6e6",
+  "answeredIndex": 0,
+  "questionId": "2"
+}, {
+  "userId": "ca1bbe75-dc76-4a01-be02-f753d78d9ec3",
+  "answeredIndex": 1,
+  "questionId": "1"
+}, {
+  "userId": "b7356056-d22a-4e2b-ad2a-290165b55da5",
+  "answeredIndex": 1,
+  "questionId": "1"
+}, {
+  "userId": "84c5f95c-8979-4e3b-be2d-0878473a3d2d",
+  "answeredIndex": 1,
+  "questionId": "1"
+}, {
+  "userId": "4503070a-ec33-405f-a2fd-4a28471d086f",
+  "answeredIndex": 1,
+  "questionId": "1"
+}, {
+  "userId": "b96e21de-c389-45fe-971e-3fa12a962bbf",
+  "answeredIndex": 1,
+  "questionId": "1"
+}, {
+  "userId": "ca1bbe75-dc76-4a01-be02-f753d78d9ec3",
+  "answeredIndex": 1,
+  "questionId": "2"
+}, {
+  "userId": "b7356056-d22a-4e2b-ad2a-290165b55da5",
+  "answeredIndex": 1,
+  "questionId": "2"
+}, {
+  "userId": "84c5f95c-8979-4e3b-be2d-0878473a3d2d",
+  "answeredIndex": 1,
+  "questionId": "2"
+}, {
+  "userId": "4503070a-ec33-405f-a2fd-4a28471d086f",
+  "answeredIndex": 1,
+  "questionId": "2"
+}, {
+  "userId": "b96e21de-c389-45fe-971e-3fa12a962bbf",
+  "answeredIndex": 1,
+  "questionId": "2"
+}]
